@@ -1,0 +1,9 @@
+/target
+
+# ローカル資格情報と実試験用の操作スクリプト
+/test_token
+/exec_test.sh
+/test_data
+
+# SCIP用インデックスファイル
+/**/index.scip
