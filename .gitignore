@@ -7,3 +7,10 @@
 
 # SCIP用インデックスファイル
 /**/index.scip
+
+# リリース作業用ファイル
+/dist/
+/target/
+/.release-skill-backups/
+/.agents/
+/.release.toml
